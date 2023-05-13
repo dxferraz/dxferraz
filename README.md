@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 👨‍💻 Sobre mim:
 Sou um desenvolvedor júnior apaixonado por criar soluções inovadoras e funcionais para problemas reais. Atualmente trabalho na Keyset, uma empresa que desenvolve um aplicativo mobile que permite abrir e gerenciar os acessos a um certo espaço usando o celular. Utilizo o framework Flutter para criar uma interface intuitiva e responsiva para os usuários. Tenho conhecimentos em Dart, Firebase, Git e outras ferramentas e tecnologias relacionadas ao desenvolvimento mobile. Estou sempre buscando aprender novas habilidades e me aprimorar como profissional.
 
 # 💻 Tech Stack:
